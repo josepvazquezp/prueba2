@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("UWU\n");
+    printf("UWU queso\n");
     return 0;
 }
